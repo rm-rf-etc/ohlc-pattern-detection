@@ -1,20 +1,4 @@
-# OHLC Pattern Detection
+Project moved:
 
-A toolbox for pattern detection of classic candlestick chart patterns.
+https://github.com/ElixirTradingTools/chart_pattern_detection
 
-
-## Installation
-
-Not currently available in Hex. Please reference this repo to install:
-
-```elixir
-def deps do
-  [
-    {
-      :ohlc_pattern_detection,
-      git: "https://github.com/rm-rf-etc/ohlc-pattern-detection.git",
-      tag: "0.1.0"
-    }
-  ]
-end
-```
